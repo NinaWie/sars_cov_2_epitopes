@@ -1,0 +1,11 @@
+name: covid_env
+channels:
+    - conda-forge
+dependencies:
+    - jupyter
+    - numpy
+    - pandas
+    - scipy
+    - matplotlib
+    - tensorflow
+    - scikit-learn
