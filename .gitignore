@@ -111,7 +111,7 @@ ENV/
 
 # data files
 .pdf
-.csv
+
 
 # swap files
 *swp
@@ -128,5 +128,3 @@ ENV/
 # ZIP files
 *.zip
 
-# CSV files:
-*.csv
