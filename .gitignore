@@ -3,6 +3,8 @@
 
 # mac files
 *.DS_Store
+*.icloud
+*_data
 
 # LSF files
 *.lsf
