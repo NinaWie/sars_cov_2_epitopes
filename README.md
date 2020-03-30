@@ -1,4 +1,4 @@
-# sars_cov_2_epitopes
+# Epitopes for sars-cov-2 vaccine developement
 
 Find epitopes in proteins to accelerate vaccine design
 
@@ -38,4 +38,4 @@ conda env create -f environment.yml
 
 ### Bibligraphy
 
-Jespersen, Martin Closter, et al. "BepiPred-2.0: improving sequence-based B-cell epitope prediction using conformational epitopes." Nucleic acids research 45.W1 (2017): W24-W29.
+[1] Jespersen, Martin Closter, et al. "BepiPred-2.0: improving sequence-based B-cell epitope prediction using conformational epitopes." Nucleic acids research 45.W1 (2017): W24-W29.
